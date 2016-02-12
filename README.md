@@ -1,5 +1,5 @@
 # Chapter-functions
-Functions
+Functions and Dates 
 
 #Functions
 ##x^n
